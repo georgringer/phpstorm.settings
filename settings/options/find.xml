@@ -1,0 +1,23 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="Directory '/var/www/sites/t3/duisberg/typo3conf/ext/duisberg/Classes'" />
+    <option name="defaultScopeName" value="Directory '/var/www/sites/t3/duisberg/typo3conf/ext/duisberg/Classes'" />
+    <option name="skipResultsWithOneUsage" value="true" />
+    <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
+    <option name="SEARCH_SCOPE" value="Directory '/var/www/sites/t3/duisberg/typo3conf/ext/duisberg/Classes'" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
+      <mask>*.xml</mask>
+      <mask>*.java</mask>
+      <mask>*.as</mask>
+      <mask>*.mxml</mask>
+      <mask>*.sql</mask>
+      <mask>*.css</mask>
+      <mask>*.js</mask>
+      <mask>*.*</mask>
+      <mask>*.php</mask>
+    </recentFileMasks>
+  </component>
+</application>

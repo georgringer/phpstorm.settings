@@ -1,0 +1,9 @@
+<toolSet name="phpunit">
+  <tool name="TYPO3 PHPUnit Test" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$PhpExecutable$" />
+      <option name="PARAMETERS" value="$ProjectFileDir$/bin/phpunit -c $ProjectFileDir$/typo3/sysext/core/Build/UnitTests.xml $FilePath$" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>

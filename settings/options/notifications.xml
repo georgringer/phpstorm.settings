@@ -1,0 +1,35 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="update.available.group" displayType="STICKY_BALLOON" />
+    <notification groupId="Git Important Messages" displayType="STICKY_BALLOON" />
+    <notification groupId="FindInPath" displayType="TOOL_WINDOW" shouldLog="false" />
+    <notification groupId="External Executable Critical Failures" displayType="STICKY_BALLOON" />
+    <notification groupId="Git Minor Notifications" />
+    <notification groupId="Git Messages" displayType="TOOL_WINDOW" />
+    <notification groupId="IDE Usage Statistics" displayType="STICKY_BALLOON" shouldLog="false" />
+    <notification groupId="Database log" displayType="NONE" />
+    <notification groupId="Database" displayType="TOOL_WINDOW" />
+    <notification groupId="Debugger messages" displayType="TOOL_WINDOW" shouldLog="false" />
+    <notification groupId="File type recognized" />
+    <notification groupId="System Messages" />
+    <notification groupId="Common Version Control Messages" displayType="TOOL_WINDOW" />
+    <notification groupId="Test Runner" displayType="NONE" />
+    <notification groupId="PHP Debugger" displayType="TOOL_WINDOW" shouldLog="false" />
+    <notification groupId="Vcs Important Messages" displayType="STICKY_BALLOON" />
+    <notification groupId="Vcs Minor Notifications" />
+    <notification groupId="Update Checker" displayType="STICKY_BALLOON" />
+    <notification groupId="Plugins Lifecycle Group" displayType="STICKY_BALLOON" />
+    <toolWindow group="Git Messages" />
+    <toolWindow group="FindInPath" />
+    <toolWindow group="PHP Debugger" />
+    <toolWindow group="Common Version Control Messages" />
+    <toolWindow group="Debugger messages" />
+    <toolWindow group="Database" />
+    <toolWindow group="Find in Path" />
+    <toolWindow group="Behat" />
+    <toolWindow group="Web Deployment: Remote Host" />
+    <toolWindow group="Inspection Results" />
+    <toolWindow group="Vcs Messages" />
+    <toolWindow group="Web Deployment: File Transfer" />
+  </component>
+</application>

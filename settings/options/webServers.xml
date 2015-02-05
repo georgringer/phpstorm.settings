@@ -1,0 +1,16 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e6f12a03-5eea-49b8-9ecb-8790e1137eca" name="TU Wien DEV" url="http://dev.tuwien.plan2.net">
+        <fileTransfer host="dev.tuwien.plan2.net" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/var/www/tuwien/htdocs" accessType="SFTP" username="gringer" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+    <sftpAdvancedGlobalOptions>
+      <SftpAdvancedOptions />
+    </sftpAdvancedGlobalOptions>
+  </component>
+</application>
